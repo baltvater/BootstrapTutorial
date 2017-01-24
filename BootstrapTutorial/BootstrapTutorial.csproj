@@ -94,16 +94,23 @@
     <Content Include="Content\w3.css" />
     <Content Include="default.html" />
     <Content Include="grid_basic.html" />
+    <Content Include="images.html" />
     <Content Include="index.html" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
     <Content Include="tables.html" />
     <Content Include="typography.html" />
+    <Content Include="w3images\cinqueterre.jpg" />
+    <Content Include="w3images\fjords.jpg" />
+    <Content Include="w3images\img_chania.jpg" />
+    <Content Include="w3images\lights.jpg" />
+    <Content Include="w3images\nature.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
