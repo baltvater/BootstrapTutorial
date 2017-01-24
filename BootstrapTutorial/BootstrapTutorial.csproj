@@ -96,6 +96,7 @@
     <Content Include="grid_basic.html" />
     <Content Include="images.html" />
     <Content Include="index.html" />
+    <Content Include="jumbotron_header.html" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
     <Content Include="tables.html" />
