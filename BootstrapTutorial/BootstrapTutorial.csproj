@@ -107,6 +107,7 @@
     <Content Include="w3images\lights.jpg" />
     <Content Include="w3images\nature.jpg" />
     <Content Include="Web.config" />
+    <Content Include="wells.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
