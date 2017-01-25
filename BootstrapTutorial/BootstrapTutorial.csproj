@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="alerts.html" />
+    <Content Include="buttons.html" />
     <Content Include="packages.config" />
     <Content Include="bootstrap\css\bootstrap-theme.css.map" />
     <Content Include="bootstrap\css\bootstrap-theme.min.css.map" />
