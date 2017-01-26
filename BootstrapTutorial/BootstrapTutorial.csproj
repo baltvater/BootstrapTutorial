@@ -102,6 +102,7 @@
     <Content Include="images.html" />
     <Content Include="index.html" />
     <Content Include="jumbotron_header.html" />
+    <Content Include="pagination.html" />
     <Content Include="progressbars.html" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
