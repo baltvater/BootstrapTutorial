@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="alerts.html" />
+    <Content Include="badges_labels.html" />
     <Content Include="buttons.html" />
     <Content Include="button_groups.html" />
     <Content Include="glyphicons.html" />
