@@ -73,6 +73,7 @@
     <Content Include="collapse.html" />
     <Content Include="dropdowns.html" />
     <Content Include="forms.html" />
+    <Content Include="forms_inputs.html" />
     <Content Include="glyphicons.html" />
     <Content Include="list_groups.html" />
     <Content Include="navbar.html" />
