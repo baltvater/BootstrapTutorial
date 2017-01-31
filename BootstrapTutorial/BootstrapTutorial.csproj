@@ -75,6 +75,7 @@
     <Content Include="forms.html" />
     <Content Include="forms_inputs.html" />
     <Content Include="forms_inputs2.html" />
+    <Content Include="forms_sizing.html" />
     <Content Include="glyphicons.html" />
     <Content Include="list_groups.html" />
     <Content Include="navbar.html" />
