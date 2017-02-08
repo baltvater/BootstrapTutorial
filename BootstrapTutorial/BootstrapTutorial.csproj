@@ -78,6 +78,7 @@
     <Content Include="forms_sizing.html" />
     <Content Include="glyphicons.html" />
     <Content Include="list_groups.html" />
+    <Content Include="media_objects.html" />
     <Content Include="navbar.html" />
     <Content Include="packages.config" />
     <Content Include="bootstrap\css\bootstrap-theme.css.map" />
@@ -121,6 +122,11 @@
     <Content Include="typography.html" />
     <Content Include="w3images\cinqueterre.jpg" />
     <Content Include="w3images\fjords.jpg" />
+    <Content Include="w3images\img_avatar1.png" />
+    <Content Include="w3images\img_avatar2.png" />
+    <Content Include="w3images\img_avatar3.png" />
+    <Content Include="w3images\img_avatar4.png" />
+    <Content Include="w3images\img_avatar5.png" />
     <Content Include="w3images\img_chania.jpg" />
     <Content Include="w3images\lights.jpg" />
     <Content Include="w3images\nature.jpg" />
