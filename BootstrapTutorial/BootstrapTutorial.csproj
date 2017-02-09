@@ -70,6 +70,7 @@
     <Content Include="badges_labels.html" />
     <Content Include="buttons.html" />
     <Content Include="button_groups.html" />
+    <Content Include="carousel.html" />
     <Content Include="collapse.html" />
     <Content Include="dropdowns.html" />
     <Content Include="forms.html" />
@@ -128,6 +129,9 @@
     <Content Include="w3images\img_avatar4.png" />
     <Content Include="w3images\img_avatar5.png" />
     <Content Include="w3images\img_chania.jpg" />
+    <Content Include="w3images\img_chania2.jpg" />
+    <Content Include="w3images\img_flower.jpg" />
+    <Content Include="w3images\img_flower2.jpg" />
     <Content Include="w3images\lights.jpg" />
     <Content Include="w3images\nature.jpg" />
     <Content Include="Web.config" />
