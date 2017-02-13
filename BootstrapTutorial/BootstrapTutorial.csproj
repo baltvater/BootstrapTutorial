@@ -80,6 +80,7 @@
     <Content Include="glyphicons.html" />
     <Content Include="list_groups.html" />
     <Content Include="media_objects.html" />
+    <Content Include="modal.html" />
     <Content Include="navbar.html" />
     <Content Include="packages.config" />
     <Content Include="bootstrap\css\bootstrap-theme.css.map" />
