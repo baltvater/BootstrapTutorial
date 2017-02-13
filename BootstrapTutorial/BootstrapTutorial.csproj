@@ -120,6 +120,7 @@
     <Content Include="progressbars.html" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="scrollspy.html" />
     <Content Include="tables.html" />
     <Content Include="tabs_pills.html" />
     <Content Include="tooltip.html" />
