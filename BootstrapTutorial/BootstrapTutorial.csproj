@@ -116,6 +116,7 @@
     <Content Include="pager.html" />
     <Content Include="pagination.html" />
     <Content Include="panels.html" />
+    <Content Include="popover.html" />
     <Content Include="progressbars.html" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
