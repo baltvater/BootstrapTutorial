@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="affix.html" />
     <Content Include="alerts.html" />
     <Content Include="badges_labels.html" />
     <Content Include="buttons.html" />
