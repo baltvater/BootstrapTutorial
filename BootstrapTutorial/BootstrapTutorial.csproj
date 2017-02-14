@@ -79,6 +79,7 @@
     <Content Include="forms_inputs2.html" />
     <Content Include="forms_sizing.html" />
     <Content Include="glyphicons.html" />
+    <Content Include="grid_stacked_to_horizontal.html" />
     <Content Include="grid_system.html" />
     <Content Include="list_groups.html" />
     <Content Include="media_objects.html" />
